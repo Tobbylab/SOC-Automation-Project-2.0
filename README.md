@@ -15,29 +15,36 @@ Install  windowns 10
 
 <img width="1082" height="635" alt="Image" src="https://github.com/user-attachments/assets/bf6a8df6-24d9-4617-a014-4974be8487e8" />
 
+
 install Splunk SIEM / Universal forward 
 
 <img width="1672" height="749" alt="Image" src="https://github.com/user-attachments/assets/6c0d7b4b-e2d3-4b74-94e5-01264790e980" />
 
 <img width="1719" height="704" alt="Image" src="https://github.com/user-attachments/assets/091f2e44-bf69-40c9-a1e7-f6f91bd054ed" />
 
-Virtual machine IP and Host machine 
+
+Virtual machine IP and Host machine IP
 
 <img width="770" height="527" alt="Image" src="https://github.com/user-attachments/assets/5782c999-fb53-47f9-8263-9d69d1a0b772" />
 
 <img width="711" height="412" alt="Image" src="https://github.com/user-attachments/assets/17305691-2c85-46ba-851f-67e6904a9c66" />
 
+
 Both Devices Hostnames 
 
 <img width="1481" height="472" alt="Image" src="https://github.com/user-attachments/assets/b8991d64-886b-4bf3-84f1-da542aa0f31b" />
+
 
 Both ingesting logs into Splunk 
 
 <img width="1730" height="660" alt="Image" src="https://github.com/user-attachments/assets/f77f50f8-148e-4026-8733-90fbd2fbbcad" />
 
+
+
 In order to generate relevent telemetry data.
 
 i remotely invoked an SSH session from the host to test VM and carried out a controlled brute-force login simulation to produce relevent logs alerts.
+
 
 
 <img width="1237" height="524" alt="Image" src="https://github.com/user-attachments/assets/61d0660d-40d6-4d2b-acf1-ed1fdbb40d39" />
@@ -60,10 +67,12 @@ index= mydfir-project
 <img width="1743" height="429" alt="Image" src="https://github.com/user-attachments/assets/136b6284-a9eb-46a2-ae77-bc43e1ac3d1c" />
 
 
+
 Save Alert 
 
 
 <img width="1738" height="431" alt="Image" src="https://github.com/user-attachments/assets/71706577-3c48-4c7c-8a47-6f3d8adfec3f" />
+
 
 
 Install and download N8N
@@ -95,7 +104,9 @@ Eexcution Steps
 <img width="1730" height="919" alt="Image" src="https://github.com/user-attachments/assets/1c2412bb-dd0d-4ca5-b4cc-309a23177434" />
 
 
+
 Actionable Notification is sent to Slack 
+
 
 
 <img width="1731" height="859" alt="Image" src="https://github.com/user-attachments/assets/ba88c9d0-da78-4ac0-a01d-042c584e2d4e" />
