@@ -1,6 +1,12 @@
 # SOC-Automation-Project-2.0
 Objective: Develop an end-to-end automated SOC workflow using n8n. Configure Splunk as the SIEM for log ingestion from a Windows 10 VM. Generate alerts in Splunk, route them to n8n for processing, enrich with OSINT tools, summarize findings using OpenAI, and deliver actionable notifications to Slack.
 
+
+<img width="1052" height="400" alt="Image" src="https://github.com/user-attachments/assets/baf7253d-c6cd-43d7-ac20-204adc06e0bc" />
+
+
+
+
 Start by installing a VMware Wowrkstaion 
 
 <img width="1069" height="653" alt="Image" src="https://github.com/user-attachments/assets/9660d897-f7e4-48f5-a6ef-39b63d0bc756" />
