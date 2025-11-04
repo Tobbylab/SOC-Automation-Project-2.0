@@ -46,11 +46,51 @@ Afer remote login failed
 
 Write a Query 
 
-index= mydfir
+index= mydfir-project
 
 | stat count by _time , Computername, user . Src_IP
 
 
 <img width="1743" height="429" alt="Image" src="https://github.com/user-attachments/assets/136b6284-a9eb-46a2-ae77-bc43e1ac3d1c" />
 
+
+Save Alert 
+
+
+<img width="1738" height="431" alt="Image" src="https://github.com/user-attachments/assets/71706577-3c48-4c7c-8a47-6f3d8adfec3f" />
+
+
+Install and download N8N
+
+
+<img width="1543" height="782" alt="Image" src="https://github.com/user-attachments/assets/1b84fc50-01b7-485f-8522-2d6fe7b971d4" />
+
+
+
+Solunk creates an alerting mechanism and N8N catches the alerts.
+
+
+
+actomatically build an automation workflow enrich alerts using OSINT AbuseIPSB and VirusTotal 
+
+
+
+Summmurize Finding to OPEN AI and deliver actionable notification to Slack 
+
+
+
+<img width="1735" height="701" alt="Image" src="https://github.com/user-attachments/assets/b9d6bb8e-3141-42e5-889d-c3f927449a86" />
+
+
+
+Eexcution Steps 
+
+
+<img width="1730" height="919" alt="Image" src="https://github.com/user-attachments/assets/1c2412bb-dd0d-4ca5-b4cc-309a23177434" />
+
+
+Actionable Notification is sent to Slack 
+
+
+<img width="1731" height="859" alt="Image" src="https://github.com/user-attachments/assets/ba88c9d0-da78-4ac0-a01d-042c584e2d4e" />
 
