@@ -82,7 +82,7 @@ Install and download N8N
 
 
 
-Solunk creates an alerting mechanism and N8N catches the alerts.
+Splunk creates an alerting mechanism and N8N catches the alerts.
 
 
 
